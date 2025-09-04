@@ -1,0 +1,3 @@
+1. git add moves any changes you’ve made in your working directory to the staging, while git commit actually saves or “commits” those changes to your repository’s history.
+2. if you delete the .git folder, the files will remain but all version history will be lost and it will not be a Git repository.
+3. if somebody has your key, they can impersonate you and gain access to all your systems and repositories.
